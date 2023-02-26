@@ -80,12 +80,12 @@
   }
 
   .home-nav {
-    font-size: 12px;
-    line-height: 19px;
+    font-size: 14px;
+    line-height: 23px;
   }
   .header-nav {
-    font-size: 12px;
-    line-height: 19px;
+    font-size: 14px;
+    line-height: 23px;
   }
   .border {
     margin-top: 20.92px;
